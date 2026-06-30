@@ -1,0 +1,9 @@
+﻿减重人群APP 原型发布包
+
+上传方式：
+1. 打开 https://app.netlify.com/drop
+2. 将本文件夹「减重人群APP」拖入页面上传区域
+3. 上传完成后使用 Netlify 生成的 https://xxx.netlify.app 链接访问
+
+入口文件：index.html
+说明：本发布包只保留当前原型外网预览所需的页面、样式和图片资源。

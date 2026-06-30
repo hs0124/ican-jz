@@ -1,0 +1,6 @@
+﻿backup-before-update-*
+edge-*
+*.log
+.DS_Store
+Thumbs.db
+
